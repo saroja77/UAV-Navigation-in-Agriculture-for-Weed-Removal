@@ -19,6 +19,8 @@ cluster.
 We have used the CoFly-WeedDB dataset (~436MB) consists of 201 aerial images, capturing different weed types that interfere among the row crop (cotton), as well as their corresponding annotated images.
 
 # Architecture
+![image](https://github.com/saroja77/UAV-Navigation-in-Agriculture-for-Weed-Removal/assets/110019339/eb7bce79-8cf6-4887-a324-5990bb5cf30e)
+
 ![image](https://github.com/saroja77/UAV-Navigation-in-Agriculture-for-Weed-Removal/assets/110019339/49937f4c-c07b-4914-a2ef-7fc3351bdf71)
 
 

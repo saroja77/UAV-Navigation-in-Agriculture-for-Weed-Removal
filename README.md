@@ -1,4 +1,4 @@
-## Abstract
+
 To optimize agricultural activities, increase crop
 production and manage agricultural problems, unmanned aerial
 vehicles (agricultural drones) are used. Weed detection systems
@@ -17,3 +17,4 @@ the nodes. All the weed sections are taken care of by navigating
 through all the clusters using the shortest path found. When the
 current cluster is taken care of, the UAV navigates to the next
 cluster.
+
